@@ -1,5 +1,7 @@
 # AGENTS.md Context Engineering
 
+[中文说明](README_zh.md)
+
 A practical open-source guide for using layered `AGENTS.md` files to make AI-assisted programming more reliable, cheaper, and easier to review.
 
 This repository turns a research-style document about AI coding context files into a reusable project for developers who want better vibe coding: less prompt drift, fewer invented conventions, and more useful AI collaboration inside real codebases.
