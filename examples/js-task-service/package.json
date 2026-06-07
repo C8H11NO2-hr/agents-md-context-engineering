@@ -1,0 +1,11 @@
+{
+  "name": "agents-md-js-task-service",
+  "version": "0.1.0",
+  "description": "Small JavaScript example for layered AGENTS.md guidance",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "license": "MIT"
+}

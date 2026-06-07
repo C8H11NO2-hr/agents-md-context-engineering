@@ -1,0 +1,23 @@
+# AGENTS.md Context Engineering
+
+This repository explains how to use layered `AGENTS.md` files as project memory for AI coding agents.
+
+## Important Files
+
+- `/README.md`: overview, quick start, and project structure.
+- `/AGENTS.md`: root AI-agent instructions for this repository.
+- `/docs/analysis.zh-CN.md`: converted Chinese source analysis.
+- `/docs/principles.md`: design principles for layered instruction files.
+- `/docs/templates/root-AGENTS.md`: root instruction template.
+- `/docs/templates/module-AGENTS.md`: module instruction template.
+- `/docs/references.md`: public references used to shape repository structure.
+- `/examples/go-task-service/AGENTS.md`: Go example guidance.
+- `/examples/python-task-service/AGENTS.md`: Python example guidance.
+- `/examples/js-task-service/AGENTS.md`: JavaScript example guidance.
+
+## Recommended Reading Order
+
+1. `README.md`
+2. `docs/principles.md`
+3. One example project under `examples/`
+4. `docs/analysis.zh-CN.md` for the full original argument

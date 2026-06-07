@@ -1,0 +1,13 @@
+[project]
+name = "agents-md-python-task-service"
+version = "0.1.0"
+description = "Small Python example for layered AGENTS.md guidance"
+requires-python = ">=3.11"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
