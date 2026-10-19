@@ -1,3 +1,4 @@
+> [中文版本](principles.zh-CN.md)
 # Principles for Layered AGENTS.md Files
 
 Layered AI instruction files work best when they are treated as context architecture, not as dumping grounds for every preference a team has ever had.
